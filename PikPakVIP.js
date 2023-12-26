@@ -2,7 +2,7 @@
 
 [rewrite_local]
 
-^https:\/\/api-drive\.mypikpak\.com\/(vip\/v\d\/(vip\/info|allSubscriptionStatus)|drive\/v\d\/about\?space) url script-response-body https://raw.githubusercontent.com/NanNan-Z/Rewrite/main/PikpakVIP
+^https:\/\/api-drive\.mypikpak\.com\/(vip\/v\d\/(vip\/info|allSubscriptionStatus)|drive\/v\d\/about\?space) url script-response-body https://raw.githubusercontent.com/NanNan-Z/Rewrite/main/PikPakVIP.js
 
 [mitm] 
 
